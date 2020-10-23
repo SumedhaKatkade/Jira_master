@@ -11,5 +11,8 @@ public class Jira_repo_class {
 	public void m2() {
 		System.out.println("Method 2");
 	}
-
+	@Test
+	public void m3() {
+		System.out.println("Method 3");
+	}
 }
