@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10766" started-at="2020-08-15T15:02:46 IST" finished-at="2020-08-15T15:02:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10766" started-at="2020-08-15T15:02:46 IST" finished-at="2020-08-15T15:02:57 IST">
+      <class name="api.test.Jira_API">
+        <test-method status="PASS" signature="createProject()[pri:0, instance:api.test.Jira_API@52feb982]" name="createProject" duration-ms="10447" started-at="2020-08-15T15:02:46 IST" finished-at="2020-08-15T15:02:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+        <test-method status="PASS" signature="getAllStatusesForProject()[pri:0, instance:api.test.Jira_API@52feb982]" name="getAllStatusesForProject" duration-ms="256" started-at="2020-08-15T15:02:57 IST" finished-at="2020-08-15T15:02:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllStatusesForProject -->
+      </class> <!-- api.test.Jira_API -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
